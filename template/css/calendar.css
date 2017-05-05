@@ -1,0 +1,31 @@
+
+.block-on-center {
+position: absolute;
+top: 50%;
+left: 50%;
+margin-top: -100px;
+margin-left: -100px; }
+
+.cal{
+border: 1px solid #ccc;
+color: #333;
+background: #F6F6F6;
+font: Arial;
+font-size: 14px;
+text-align: center;}
+
+.caltoday{
+font: Arial;
+font-size: 14px;
+text-align: center;
+font-weight: bold;}
+
+.navi{
+font: Arial;
+font-size: 16px;
+font-weight: bold;}
+
+.datehead{
+font: Arial;
+font-size: 16px;
+font-weight: bold;}
